@@ -1,7 +1,5 @@
-Hi, I’m Anthea! I am a Year 3 History Undergraduate at Nanyang Technological University.
-I’m interested in the Digital Humanities and Environmental History.
-I’m currently learning how to navigate PandasAI and how to utilise it for possible machine learning projects.
-I am most interested in utilising machine learning in prediciting environmental disasters, and am currently working on learning automation with Python.
+Hi, nice to meet you! I'm Anthea and am a postgraduate student studying Geographical Information Science & Earth Observation at the University of Edinburgh.
+I'm interested in researching & modelling the impacts infecious diseases cause on the public health of a society.
 
 <!---
 anthea-03/anthea-03 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
